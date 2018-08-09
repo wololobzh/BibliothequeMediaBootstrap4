@@ -1,0 +1,40 @@
+.border-perso {
+    box-shadow: 1px 1px 1px 1px lightgray;
+    padding: 0px;
+}
+
+h3 {
+    color: #9fcdff;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    color: #9fcdff;
+    text-align: center;
+}
+
+.centragibilite {
+    text-align: center;
+}
+
+.largeur-bouton80 {
+    width: 85px;
+}
+
+.largeur-bouton40 {
+    width: 40px;
+}
+
+.riri {
+    text-align: right;
+}
+
+.lele {
+    text-align: center;
+    padding: 0px;
+}
+
+.bobo {
+    border: #1b1e21 1px solid;
+}
